@@ -1,8 +1,15 @@
-print("Hello World")
-print("this the second commit")
-print("I am enjoying git")
-print("This is a exam")
-print("and I am reallt enjoying!")
-print("clone testing")
-print("Hello from master")
-print("Hello from conflict-test")
+# print("Hello World")
+# print("this the second commit")
+# print("I am enjoying git")
+# print("This is a exam")
+# print("and I am reallt enjoying!")
+# print("clone testing")
+# print("Hello from master")
+# print("Hello from conflict-test")
+
+friends = ["ali", "parsa", "matin", "sobhan"]
+
+for i in friends:
+    print(f"hello {i}")
+
+print("test1")
